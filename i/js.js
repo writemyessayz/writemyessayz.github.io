@@ -1,12 +1,12 @@
 // JavaScript for writemyessayz.github.io
 $(document).ready(function() {
-$(".orderbutton").attr("href", 'h'+'tt'+'ps'+':'+'/'+'/write'+'my'+'essay'+'z.c'+'om'+'/man'+'age/or'+'de'+'r');
-$("#myaccount").attr("href", 'h'+'tt'+'ps'+':'+'/'+'/write'+'my'+'essay'+'z.c'+'om'+'/man'+'age/lo'+'g'+'in');
-$(".ab").attr("href", 'h'+'tt'+'p'+':'+'/'+'/write'+'my'+'essay'+'z.c'+'om'+'/abo'+'u'+'t.html');
-$(".co").attr("href", 'h'+'tt'+'p'+':'+'/'+'/write'+'my'+'essay'+'z.c'+'om'+'/con'+'tac'+'ts.html#content');
-$(".fq").attr("href", 'h'+'tt'+'p'+':'+'/'+'/write'+'my'+'essay'+'z.c'+'om'+'/f'+'a'+'q.html#content');
-$(".pr").attr("href", 'h'+'tt'+'p'+':'+'/'+'/write'+'my'+'essay'+'z.c'+'om'+'/pr'+'ic'+'es.html#content');
-$(".tm").attr("href", 'h'+'tt'+'p'+':'+'/'+'/write'+'my'+'essay'+'z.c'+'om/tes'+'timo'+'nia'+'ls.html#content');
+$(".orderbutton").attr("href", 'h'+'tt'+'ps'+':'+'/'+'/write'+'my'+'essay'+'z.github.io'+''+'/man'+'age/or'+'de'+'r');
+$("#myaccount").attr("href", 'h'+'tt'+'ps'+':'+'/'+'/write'+'my'+'essay'+'z.github.io'+''+'/man'+'age/lo'+'g'+'in');
+$(".ab").attr("href", 'h'+'tt'+'p'+':'+'/'+'/write'+'my'+'essay'+'z.github.io'+''+'/abo'+'u'+'t.html');
+$(".co").attr("href", 'h'+'tt'+'p'+':'+'/'+'/write'+'my'+'essay'+'z.github.io'+''+'/con'+'tac'+'ts.html#content');
+$(".fq").attr("href", 'h'+'tt'+'p'+':'+'/'+'/write'+'my'+'essay'+'z.github.io'+''+'/f'+'a'+'q.html#content');
+$(".pr").attr("href", 'h'+'tt'+'p'+':'+'/'+'/write'+'my'+'essay'+'z.github.io'+''+'/pr'+'ic'+'es.html#content');
+$(".tm").attr("href", 'h'+'tt'+'p'+':'+'/'+'/write'+'my'+'essay'+'z.github.io'+'/tes'+'timo'+'nia'+'ls.html#content');
 
 $(".bannerorder").click(function() { 
 window.location = 'http'+'://wr'+'itemy'+'essayz.github.io/man'+'age/order';
