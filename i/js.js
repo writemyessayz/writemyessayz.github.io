@@ -9,7 +9,7 @@ $(".pr").attr("href", 'h'+'tt'+'p'+':'+'/'+'/write'+'my'+'essay'+'z.c'+'om'+'/pr
 $(".tm").attr("href", 'h'+'tt'+'p'+':'+'/'+'/write'+'my'+'essay'+'z.c'+'om/tes'+'timo'+'nia'+'ls.html#content');
 
 $(".bannerorder").click(function() { 
-window.location = 'https'+'://wr'+'itemy'+'essayz.com/man'+'age/order';
+window.location = 'http'+'://wr'+'itemy'+'essayz.github.io/man'+'age/order';
 });
 
 $("#bookmark").click(function(e){
